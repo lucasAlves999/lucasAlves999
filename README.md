@@ -1,5 +1,5 @@
 # Olá, eu sou Lucas Alves 👋
-Desenvolvedor Front-End | Estudante de ADS | Apaixonado por React e projetos web
+Desenvolvedor Front-End | Estudante de ADS | React e projetos web
 ---
 
 ## Sobre mim
