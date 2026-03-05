@@ -3,7 +3,7 @@ Desenvolvedor Front-End | Estudante de ADS | React e projetos web
 ---
 
 ## Sobre mim
-Sou um jovem estudante de Análise e Desenvolvimento de Sistemas, com foco em Front-End. Tenho experiência em projetos pessoais e freelancers, estudando e me aprofundando em React e tecnologias web. Estou em busca de oportunidades para crescer e contribuir com projetos desafiadores.
+Sou um jovem formado em Análise e Desenvolvimento de Sistemas, com foco em Front-End. Tenho experiência em projetos pessoais e freelancers, estudando e me aprofundando em React e tecnologias web. Estou em busca de oportunidades para crescer e contribuir com projetos desafiadores.
 
 ---
 
